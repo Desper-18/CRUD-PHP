@@ -1,0 +1,15 @@
+{
+    "name": "academy/32_crud",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akbar",
+            "email": "mubosha.97@gmail.com"
+        }
+    ],
+    "require": {}
+}
