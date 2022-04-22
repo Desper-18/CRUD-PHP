@@ -1,0 +1,11 @@
+@media (max-width: 992px) {
+    .w-50 {
+        width: 100%!important;
+    }
+}
+
+.object-fit-cover {
+    object-fit: cover;
+    width: 100%;
+    aspect-ratio: 14/9;
+}
